@@ -51,15 +51,6 @@ Currently, I'm focused on expanding my Python skills to enhance my experimental 
 
 ---
 
-## 🧪 Lab Notes & Documentation
-
-I maintain detailed notes on my experiments and projects:
-
-- [Spectrometer Project Documentation](https://docs.google.com/document/d/1jraf2Nvu7NblJ_Dn6fcNky1Q-mVKn-qvXCkCXtn5DJE/edit?tab=t.0)
-- [Physics Research Notes](https://docs.google.com/document/d/1NF5TUffx1zx7Gg6HvHx2W_tS58AVLx-5RGboXvNdfMI/edit?tab=t.0)
-
----
-
 ## 📚 Research Interests
 
 - **Quantum Physics**: Exploring fundamental principles and quantum systems
